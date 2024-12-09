@@ -1,0 +1,77 @@
+Passo 1: Inizializzazione dei centri dei cluster
+Inizializzazione: [[0.55294118 0.53333333 0.41960784]
+ [0.29803922 0.12941176 0.16470588]
+ [0.27843137 0.1372549  0.17647059]]
+Passo 2: Iterazione 1 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.770697   0.75755581 0.66324658]
+ [0.4105964  0.13891967 0.1793313 ]
+ [0.24371674 0.14730388 0.17158485]]
+Passo 2: Iterazione 2 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.80305553 0.81509063 0.72245387]
+ [0.51215299 0.23884484 0.23717442]
+ [0.24825208 0.14820584 0.16564931]]
+Passo 2: Iterazione 3 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.81546905 0.83494277 0.74759302]
+ [0.55504594 0.32778548 0.27195679]
+ [0.25813295 0.13697832 0.16601269]]
+Passo 2: Iterazione 4 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.82425796 0.84702895 0.76414118]
+ [0.57760143 0.38377967 0.30016081]
+ [0.2676921  0.13573426 0.16744419]]
+Passo 2: Iterazione 5 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.83214708 0.85693082 0.77768408]
+ [0.59549213 0.42789229 0.3272959 ]
+ [0.27592657 0.13749517 0.16906651]]
+Passo 2: Iterazione 6 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.8416799  0.86884317 0.7927675 ]
+ [0.61166188 0.46933913 0.35782229]
+ [0.28315017 0.13992623 0.17066441]]
+Passo 2: Iterazione 7 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.85333233 0.88351415 0.81099182]
+ [0.62758708 0.51010285 0.39067802]
+ [0.29020967 0.14277464 0.17245184]]
+Passo 2: Iterazione 8 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.8647513  0.89790934 0.82892983]
+ [0.64152113 0.5458787  0.42102022]
+ [0.29743111 0.14596722 0.17425859]]
+Passo 2: Iterazione 9 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.87347216 0.90835275 0.84213154]
+ [0.65128089 0.57294309 0.44431325]
+ [0.30401302 0.14904517 0.17597173]]
+Passo 2: Iterazione 10 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.87968643 0.91545796 0.8512099 ]
+ [0.65816024 0.59186906 0.46135479]
+ [0.30900474 0.15177253 0.17732528]]
+Passo 2: Iterazione 11 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.88418551 0.9204954  0.85769261]
+ [0.66330931 0.60494433 0.47353196]
+ [0.31244097 0.15394939 0.17839955]]
+Passo 2: Iterazione 12 - Assegnazione dei punti ai cluster
+Etichette assegnate: [2 2 2 ... 2 2 2]
+Passo 3: Ricalcolo dei centri dei cluster
+Nuovi centri: [[0.88750227 0.92425812 0.86261461]
+ [0.66737097 0.61424151 0.48240201]
+ [0.31481025 0.15563682 0.17922527]]
+Algoritmo convergente, i centri non cambiano più.
